@@ -45,9 +45,9 @@ const server = app.listen(3000, '0.0.0.0', () => {
 });
 
 process.on('SIGTERM', () => {
-  console.log('SIGTERM received, closing server...');
+  console.log('SIGTERM received, closing server...  kjehjhewjhh');
   server.close(() => {
-    console.log('Server closed gracefully.');
+    console.log('Server closed gracefully.wdgfytwfg');
     process.exit(0);
   });
 });
