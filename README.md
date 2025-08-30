@@ -4,7 +4,7 @@ This project demonstrates how to deploy a **highly scalable Node.js backend** us
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure,
 
 ```
 node-backend-k8s/
