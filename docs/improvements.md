@@ -2,7 +2,7 @@ Absolutely — once you have your backend Kubernetes setup working with autoscal
 
 ---
 
-## ✅ 1. **Health Probes (Liveness + Readiness)**
+## ✅ 1. **Health Probes (Liveness + Readiness)** kjeujj
 
 Helps Kubernetes know when to **restart** or **stop routing** to a container.
 
